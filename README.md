@@ -1,7 +1,7 @@
 Hi, I’m Magnus!<br>
 I’m interested in visual design and programming. 
 
-Reach me at mh@hvidtfeldt.co
+Reach me at mh@meshscandinavia.com
 
 <!---
 mch-sg/mch-sg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
