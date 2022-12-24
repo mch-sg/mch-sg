@@ -1,4 +1,4 @@
-Hi, I’m Magnus! 👋<br> 
+### Hi, I’m Magnus.
 I’m interested in visual design and programming.
 <br>
 
