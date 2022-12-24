@@ -1,5 +1,5 @@
 ### Hi, I’m Magnus.
-I’m interested in visual design and programming.
+I’m interested in visual design and development.
 <br>
 
 📫 Reach me at mh@meshscandinavia.com
