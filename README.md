@@ -2,7 +2,7 @@
 I’m interested in visual design and development.
 <br>
 
-📫 Reach me at mh@magnushvidtfeldt.com
+📫 Reach me at contact@magnushvidtfeldt.com
 
 <!---
 mch-sg/mch-sg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
